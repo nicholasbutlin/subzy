@@ -1,4 +1,4 @@
-module github.com/PentestPad/subzy
+module github.com/nicholasbutlin/subzy
 
 go 1.23
 

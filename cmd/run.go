@@ -3,10 +3,11 @@ package cmd
 import (
 	"errors"
 	"fmt"
-	"github.com/PentestPad/subzy/runner"
-	"github.com/spf13/cobra"
 	"io/fs"
 	"os"
+
+	"github.com/nicholasbutlin/subzy/runner"
+	"github.com/spf13/cobra"
 )
 
 var opts = runner.Config{}

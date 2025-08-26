@@ -1,0 +1,16 @@
+[
+  {
+    "cicd_pass": false,
+    "cname": [
+      "example.com"
+    ],
+    "discussion": "Test discussion",
+    "documentation": "Test documentation",
+    "fingerprint": "TestFingerprint",
+    "http_status": 200,
+    "nxdomain": false,
+    "service": "TestService",
+    "status": "vulnerable",
+    "vulnerable": true
+  }
+]
